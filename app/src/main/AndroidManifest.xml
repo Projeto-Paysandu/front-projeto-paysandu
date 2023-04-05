@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Frontprojetopaysandu"
         tools:targetApi="31">
         <activity
-            android:name=".screen.Agendamento.fragment.AgendamentosActivity"
+            android:name=".screen.Agendamento.AgendamentosActivity"
             android:exported="false"
             android:parentActivityName=".MainActivity">
             <meta-data

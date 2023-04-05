@@ -4,7 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
-import com.example.front_projeto_paysandu.screen.Agendamento.fragment.AgendamentosActivity
+import com.example.front_projeto_paysandu.screen.Agendamento.AgendamentosActivity
 
 
 class MainActivity : AppCompatActivity() {
