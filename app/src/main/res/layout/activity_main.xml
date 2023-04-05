@@ -60,10 +60,11 @@
             android:inputType="textPassword" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/enter_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Entrar" />
+            android:text="Entrar"
+            android:onClick="telaAgendamento"/>
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
