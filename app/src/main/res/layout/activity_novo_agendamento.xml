@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".screen.Agendamento.AgendamentosActivity">
+    tools:context=".screen.Agendamento.NovoAgendamento.NovoAgendamentoActivity">
 
     <LinearLayout
         android:id="@+id/container"
@@ -15,7 +15,7 @@
 
         <fragment
             android:id="@+id/list"
-            android:name="com.example.front_projeto_paysandu.screen.Agendamento.fragment.AgendarAreasComunsFragment"
+            android:name="com.example.front_projeto_paysandu.screen.Agendamento.NovoAgendamento.fragment.NovoAgendamentoFragment"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1" />

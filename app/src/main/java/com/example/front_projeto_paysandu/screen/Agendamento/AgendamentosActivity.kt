@@ -1,4 +1,4 @@
-package com.example.front_projeto_paysandu.screen.Agendamento.fragment
+package com.example.front_projeto_paysandu.screen.Agendamento
 
 import android.os.Bundle
 
