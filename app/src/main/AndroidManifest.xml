@@ -13,6 +13,13 @@
         android:theme="@style/Theme.Frontprojetopaysandu"
         tools:targetApi="31">
         <activity
+            android:name=".NovoVisitanteActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".AcessoDeVisitantesActivity"
             android:exported="false">
             <meta-data
