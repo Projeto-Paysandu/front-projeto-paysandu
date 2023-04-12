@@ -1,9 +1,9 @@
 # <h1 align="center"> Projeto Paysandu (Front-end) </h1>
-# ![Título do projeto "PROJETO PAYSANDU"](https://user-images.githubusercontent.com/77586790/231581984-ff30ac06-2b5b-4f8b-a048-7c6139b243d7.png)
+# <h1 align="center">![Título do projeto "PROJETO PAYSANDU"](https://user-images.githubusercontent.com/77586790/231581984-ff30ac06-2b5b-4f8b-a048-7c6139b243d7.png) </h1>
 Projeto de aplicação de um sistema gestor de condomínios da disciplina de Engenharia de Software 2022.1 UFRPE
 
 <p align="center">
-<img src="[http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge](https://img.shields.io/badge/Front--end-Kotlin-brightgreen)"/>
+<img src="[[http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge](https://img.shields.io/badge/Front--end-Kotlin-brightgreen)](https://img.shields.io/static/v1?label=Equipe&message=3&color=blue)"/>
 </p>
 
 https://img.shields.io/badge/Front--end-Kotlin-brightgreen
